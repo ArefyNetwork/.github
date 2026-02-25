@@ -8,7 +8,7 @@
 
 [![Discord](https://img.shields.io/badge/Discord-Join%20us-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/arefy)
 [![Website](https://img.shields.io/badge/Website-arefy.net-7c3aed?style=for-the-badge&logo=google-chrome&logoColor=white)](https://arefy.net)
-[![BuiltByBit](https://img.shields.io/badge/BuiltByBit-Nekio%20Setups-ff6b35?style=for-the-badge)](https://builtbybit.com)
+[![BuiltByBit](https://img.shields.io/badge/BuiltByBit-Nekio%20Setups-ff6b35?style=for-the-badge)](https://builtbybit.com/creators/nekio.589/)
 
 </div>
 
